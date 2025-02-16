@@ -2,12 +2,9 @@
 
 <h2>👨‍💻 Data Science / Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>K-Means Clustering Logistic Regression prediction analysis</b>
   - [Customer Segmentation & Purchase Prediction Analysis]((https://github.com/bUGRA987-svg/DataScience_Porfolio_Project)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Prediction using Neural Network  (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
