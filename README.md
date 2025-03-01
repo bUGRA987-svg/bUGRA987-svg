@@ -5,6 +5,8 @@
 - <b>K-Means Clustering Logistic Regression prediction analysis</b>
   - [Customer Segmentation & Purchase Prediction Analysis]((https://github.com/bUGRA987-svg/DataScience_Porfolio_Project)
 
+- <b>NKE Stock price prediction using LSTM and GPU accelerator (CUDA,CUDNN)</b>
+  - [Customer Segmentation & Purchase Prediction Analysis]((https://github.com/bUGRA987-svg/DataScience_Porfolio_Project)
 
 <h2> 🤳 Connect with me:</h2>
 
