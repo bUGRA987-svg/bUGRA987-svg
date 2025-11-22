@@ -10,7 +10,7 @@
  
 -  <b>Churn Prediction and Revenue Impact Modeling Improving Retention</b>
   - https://github.com/bUGRA987-svg/Churn_Prediction-Revenue_Impact_Modeling
-- 
+
 
 <h2> 🤳 Connect with me:</h2>
 
