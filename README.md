@@ -7,6 +7,10 @@
 
 - <b>NKE Stock price prediction using LSTM and GPU accelerator (CUDA,CUDNN)</b>
   - [Nike Stock price prediction with Neural Network](([(https://github.com/bUGRA987-svg/Stock_Prediction_LSTM_CUDA)])
+ 
+-  <b>Churn Prediction and Revenue Impact Modeling Improving Retention</b>
+  - https://github.com/bUGRA987-svg/Churn_Prediction-Revenue_Impact_Modeling
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
