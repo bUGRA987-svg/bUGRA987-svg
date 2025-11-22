@@ -1,6 +1,6 @@
 <h1>Hi, I'm Buğra! <br/><a href="([https://github.com/bUGRA987-svg])"></a> <a href="https://www.linkedin.com/in/bugra-avsar/"> Data Science / Data Analytics</a>
 
-<h2>👨‍💻 Data Science / Data Analytics Projects:</h2>
+<h2> Data Science / Data Analytics Projects:</h2>
 
 - <b>K-Means Clustering Logistic Regression prediction analysis</b>
   - [Customer Segmentation & Purchase Prediction Analysis]((https://github.com/bUGRA987-svg/DataScience_Porfolio_Project)
