@@ -13,7 +13,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px">](https://www.linkedin.com/in/bugra-avsar/) 
   
