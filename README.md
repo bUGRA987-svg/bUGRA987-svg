@@ -11,6 +11,9 @@
 - <b>Churn Prediction and Revenue Impact Modeling Improving Retention</b>
   - https://github.com/bUGRA987-svg/Churn_Prediction-Revenue_Impact_Modeling)
 
+    
+- <b>Early-ROAS-Prediction-Analysis</b>
+  - https://github.com/bUGRA987-svg/Early-ROAS-Prediction-Analysis/blob/main/README.md
 
 
 <h2>  Connect with me:</h2>
